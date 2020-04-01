@@ -13,6 +13,6 @@ components:
 
   - alias: rhamt-demo-plugin
     type: chePlugin
-    reference: https://raw.githubusercontent.com/windup/rhamt-che-demo/master/meta.yaml
+    reference: https://raw.githubusercontent.com/windup/rhamt-che-demo/0.0.24/meta.yaml
     memoryLimit: 1500M
     
