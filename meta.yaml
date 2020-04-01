@@ -2,9 +2,9 @@ apiVersion: v2
 version: latest
 type: VS Code extension
 name: rhamt-demo
-displayName: Migration Toolkit
-title: Application Migration and Modernization using RHAMT
-description: Application Migration and Modernization using RHAMT
+displayName: Migration Toolkit (Demo name)
+title: Application Migration and Modernization using RHAMT (Demo title)
+description: Application Migration and Modernization using RHAMT (Demo description)
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 publisher: demo
 repository: https://github.com/windup/rhamt-che-demo
